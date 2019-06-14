@@ -1,4 +1,4 @@
 .idea/
-.ignore
+.gitignore
 OrderProject.iml
 target/
